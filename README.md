@@ -37,6 +37,16 @@ This project focuses on building a smart home automation system using ESP32 with
 3. Based on conditions, devices are automatically controlled
 4. System can be extended for remote monitoring
 
+## Demo
+
+### System Architecture
+![Smart Home Diagram](smart-home-diagram.jpg)
+
+### Hardware Implementation
+![ESP32 Setup](esp32-setup.jpg)
+
+This system was implemented and tested using ESP32 with real sensors and relay modules for automated control.
+
 ---
 
 ## Author
