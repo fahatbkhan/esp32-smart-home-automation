@@ -24,18 +24,20 @@ This project focuses on building a smart home automation system using ESP32 with
 ---
 
 ## Features
-- Real-time environmental monitoring
-- Automated device control
-- Energy-efficient system
-- IoT-based smart home functionality
+- Real-time environmental monitoring  
+- Automated device control  
+- Energy-efficient system  
+- IoT-based smart home functionality  
 
 ---
 
 ## How It Works
-1. Sensors collect environmental data (temperature, humidity, etc.)
-2. ESP32 processes the data
-3. Based on conditions, devices are automatically controlled
-4. System can be extended for remote monitoring
+1. Sensors collect environmental data (temperature, humidity, etc.)  
+2. ESP32 processes the data  
+3. Based on conditions, devices are automatically controlled  
+4. System can be extended for remote monitoring  
+
+---
 
 ## Demo
 
@@ -44,6 +46,17 @@ This project focuses on building a smart home automation system using ESP32 with
 
 ### Hardware Implementation
 ![ESP32 Setup](esp32-setup.jpg)
+
+---
+
+## Code
+Basic ESP32 code to control devices using relay modules.  
+This simulates automated switching based on environmental conditions.
+
+---
+
+## Note
+This repository demonstrates the core concept and implementation logic. The complete hardware integration and advanced automation were part of the academic project.
 
 This system was implemented and tested using ESP32 with real sensors and relay modules for automated control.
 
